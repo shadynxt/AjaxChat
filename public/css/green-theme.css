@@ -1,0 +1,40 @@
+/*start section default theme*/
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.option-box .gear-check,
+.carousel-indicators .active
+{
+	background-color: #5FB059;
+}
+
+.navbar-inverse .navbar-brand span,
+.about h1 span,
+.footer h3,
+.footer .copyright span,
+.about h3 span,
+.testimonials span,
+.features .feat span.glyphicon,
+.statistics .stats:hover,
+.dropdown-menu .divider,
+.testimonials h1
+{
+	color: #5FB059;
+}
+
+.testimonials .carousel-indicators li.active,
+.option-box .color-option,
+.price_table .price_box:hover p
+{
+	border: 3px solid #5FB059;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus
+{
+	background-color: #5FB059;
+	color: #FFF;
+}
+
+/*start section default theme*/
